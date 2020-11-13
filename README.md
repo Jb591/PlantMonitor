@@ -5,7 +5,7 @@ This project gets data from sensors and then determines the situation that the p
 
 * Soil Sensor
 * DHT22
-* Arduino
+* Arduino UNO
 * LCD Display
 * Two Buttons
 
