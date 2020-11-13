@@ -1,4 +1,5 @@
 # Plant Monitor
+
 This project gets data from sensors and then determines the situation that the plant is currently in based on the status of a button. A short press shows the Temperature, a long press shows the Humidity and Temperature
 
 ## Components Used
